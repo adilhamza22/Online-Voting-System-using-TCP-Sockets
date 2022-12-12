@@ -5,7 +5,7 @@ You are to devise an online vote casting system using TCP multithreaded server-
 client program. The voters will log on from client systems and cast their votes. Note
 that
 
-One client can cast a vote ONCE AND ONLY ONCE.
+One client can cast a vote ONCE AND ONLY ONCE.//THIS CONDITION IS NOT YET IMPLEMENNTED
 A list of registered voters is available in a text file in the following format:
 
 Name/CNIC number
